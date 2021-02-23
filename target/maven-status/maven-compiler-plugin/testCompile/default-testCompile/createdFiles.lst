@@ -1,0 +1,9 @@
+Pom\banking\pageobjects\AddCustomerPage.class
+Pom\banking\testcases\BaseClass.class
+Pom\banking\testcases\TC_LoginDDT_002.class
+Pom\banking\utilities\XLUtils.class
+Pom\banking\pageobjects\LoginPage.class
+Pom\banking\utilities\ReadConfig.class
+Pom\banking\testcases\TC_Login_001.class
+Pom\banking\testcases\TC_AddCustomerTest_003.class
+Pom\banking\utilities\Reporting.class
